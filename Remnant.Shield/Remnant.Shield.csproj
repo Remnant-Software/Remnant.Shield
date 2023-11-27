@@ -6,12 +6,13 @@
     <Title>Remnant.Shield</Title>
     <Authors>Neill Verreynne</Authors>
     <Company>Remnant Software</Company>
-		<Copyright>© 2023 by Neill Verreynne</Copyright>
-		<PackageIcon>Remnant.png</PackageIcon>
-		<PackageReleaseNotes>First release</PackageReleaseNotes>
-		<PackageLicenseFile>LICENSE</PackageLicenseFile>
-		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-		<PackageReadmeFile>README.md</PackageReadmeFile>
+	<Copyright>© 2023 by Neill Verreynne</Copyright>
+	<PackageIcon>Remnant.png</PackageIcon>
+	<PackageReleaseNotes>First release</PackageReleaseNotes>
+	<PackageLicenseFile>LICENSE</PackageLicenseFile>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+ <RepositoryUrl>https://github.com/Remnant-Software/Remnant-Shield</RepositoryUrl>
     <Version>2.0.0</Version>
     <Description>Shield is a fluent exception handler using asserts with callback logging</Description>
   </PropertyGroup>
